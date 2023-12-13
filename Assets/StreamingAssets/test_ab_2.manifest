@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 635695127
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23628e5e982a1d452583d1fbf1f8b6f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1397ad235555a4f37791d5b3ff19e7a7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/Obs.mat
+- Assets/Materials/Red.mat
+Dependencies: []
